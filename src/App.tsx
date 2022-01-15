@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import "./App.css";
 // import ProductCounter from "./ProductCounter";
 // import Form from "./Form";
-import RegistrationPage from "./RegistrationPage/index";
+import RegistrationPage from "./components/Registration/RegistrationForm/index";
 
 const App = () => {
   // const [orangeCount, setOrangeCount] = useState(0);
